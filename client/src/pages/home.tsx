@@ -523,12 +523,12 @@ export default function Home() {
                 <div className="text-lg mb-4">Manual + 3 Bônus Gratuitos</div>
                 
                 <Button
-                  onClick={() => window.location.href = 'https://estante-virtual6.pay.yampi.com.br/r/4QRC8DIB1O'}
-                  className="pulse-button bg-warm-coral hover:bg-warm-coral/90 text-white font-bold text-lg px-6 py-3 rounded-full w-full mb-4 transition-all whitespace-normal break-words text-center leading-tight"
-                  data-testid="button-purchase-final"
-                >
-                  🚀 SIM! QUERO O MEU BEBÊ DORMINHOCO AGORA!
-                </Button>
+  onClick={() => window.location.href = 'https://estante-virtual6.pay.yampi.com.br/r/4QRC8DIB1O'}
+  className="pulse-button bg-warm-coral hover:bg-warm-coral/90 text-white font-bold text-base px-4 py-3 rounded-full w-full mb-4 transition-all whitespace-normal break-words text-center leading-snug"
+  data-testid="button-purchase-final"
+>
+  🚀 SIM! QUERO O MEU BEBÊ DORMINHOCO AGORA!
+</Button>
 
 
                 
