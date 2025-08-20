@@ -109,7 +109,8 @@ export default function Home() {
             
             <Card className="bg-navy text-white p-8 rounded-xl text-center" data-testid="solution-teaser">
               <CardContent className="p-0">
-                <h3 className="text-2xl font-bold mb-4">PARE DE SOFRER!  A solução está aqui...</h3>
+                <h3 className="text-2xl font-bold mb-4">PARE DE SOFRER! 
+                  A solução está aqui...</h3>
                 <p className="text-lg">Milhares de mães já transformaram suas noites com este método e que ninguém fala por ai!</p>
               </CardContent>
             </Card>
