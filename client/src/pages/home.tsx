@@ -322,7 +322,7 @@ export default function Home() {
               <Card className="bg-white shadow-lg" data-testid="testimonial-card-1">
                 <CardContent className="p-6">
                   <img 
-                    src="https://i.postimg.cc/dVXSpb9G/randomface.jpg" 
+                    src="https://i.ibb.co/xkLC3bH/Whats-App-Image-2025-08-30-at-20-59-15.jpg[" 
                     alt="Mãe feliz com bebê" 
                     className="w-20 h-20 rounded-full mx-auto mb-4 object-cover"
                   />
@@ -339,7 +339,7 @@ export default function Home() {
               <Card className="bg-white shadow-lg" data-testid="testimonial-card-2">
                 <CardContent className="p-6">
                   <img 
-                    src="https://i.postimg.cc/LstBDwQ9/randomface-1.jpg
+                    src="https://i.ibb.co/Y42ZtV3F/Whats-App-Image-2025-08-30-at-20-59-15-2.jpg
 " 
                     alt="Mãe feliz testimonial" 
                     className="w-20 h-20 rounded-full mx-auto mb-4 object-cover"
@@ -357,7 +357,7 @@ export default function Home() {
               <Card className="bg-white shadow-lg" data-testid="testimonial-card-3">
                 <CardContent className="p-6">
                   <img 
-                    src="https://i.postimg.cc/4NY6qm2F/image.png
+                    src="https://i.ibb.co/Zz3Zrbs9/Whats-App-Image-2025-08-30-at-20-59-16.jpg
 " 
                     alt="Mãe tranquila testimonial" 
                     className="w-20 h-20 rounded-full mx-auto mb-4 object-cover"
@@ -375,7 +375,7 @@ export default function Home() {
               <Card className="bg-white shadow-lg" data-testid="testimonial-card-4">
                 <CardContent className="p-6">
                   <img 
-                    src="https://i.postimg.cc/qRmKZTsT/image.png
+                    src="https://i.ibb.co/KcVMNjX2/Whats-App-Image-2025-08-30-at-20-59-16-1.jpg
 " 
                     alt="Família feliz testimonial" 
                     className="w-20 h-20 rounded-full mx-auto mb-4 object-cover"
